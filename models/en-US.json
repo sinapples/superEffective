@@ -10,20 +10,17 @@
 			]
 		},
 		{
-			"name": "MyNameIsIntent",
+			"name": "superEffective",
 			"phrases": [
-				"{name}",
-				"my name is {name}",
-				"i am {name}",
-				"you can call me {name}"
+				"what is good for {type}",
+				"What is weak to {type},{type}"
 			],
 			"inputs": [
 				{
-					"name": "name",
-					"type": {
-						"alexa": "AMAZON.US_FIRST_NAME",
-						"dialogflow": "@sys.given-name"
-					}
+					"name": "type"
+				},
+				{
+					"name": "type"
 				}
 			]
 		}

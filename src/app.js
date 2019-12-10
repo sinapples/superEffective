@@ -9,7 +9,7 @@ const { Alexa } = require('jovo-platform-alexa');
 const { GoogleAssistant } = require('jovo-platform-googleassistant');
 const { JovoDebugger } = require('jovo-plugin-debugger');
 const { FileDb } = require('jovo-db-filedb');
-
+const superEffectiveController = require('./controllers/superEffectiveController');
 const app = new App();
 
 app.use(
@@ -25,16 +25,19 @@ app.use(
 // ------------------------------------------------------------------
 
 app.setHandler({
+    superEffectiveController,
+
     LAUNCH() {
         return this.toIntent('HelloWorldIntent');
     },
 
-    HelloWorldIntent() {
-        this.ask('Hello World! What\'s your name?', 'Please tell me your name.');
+    Welcome() {
+        this.ask('Welcome to type effectiveness');
     },
 
-    MyNameIsIntent() {
-        this.tell('Hey ' + this.$inputs.name.value + ', nice to meet you!');
+    superEffective() {
+
+        this.toStateIntent("superEffectiveController", "superEffective");
     },
 });
 
