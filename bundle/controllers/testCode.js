@@ -1,5 +1,5 @@
 
-const typeTable = require('./typeTable.json');
+// const typeTable = require('./typeTable.json.js');
 
 
 function superEffective(type1, type2) {
@@ -21,6 +21,6 @@ function superEffective(type1, type2) {
 
 }
 console.log();
-console.log("type table working: " + typeTable.working);
+// console.log("type table working: " + typeTable.working);
 superEffective("normal", "fighting");
 console.log();

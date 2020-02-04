@@ -23,6 +23,35 @@
 					"name": "type"
 				}
 			]
+		},
+		{
+			"name": "YesIntent",
+			"phrases": [
+				"Yes",
+				"yup"
+			]
+		},
+		{
+			"name": "NoIntent",
+			"phrases": [
+				"no",
+				"nope"
+			]
+		},
+		{
+			"name": "resist",
+			"phrases": [
+				"resist {type}",
+				"resist {type},{type}"
+			],
+			"inputs": [
+				{
+					"name": "type"
+				},
+				{
+					"name": "type"
+				}
+			]
 		}
 	],
 	"alexa": {
