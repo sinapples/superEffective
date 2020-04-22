@@ -14,7 +14,7 @@ module.exports = {
 
         }
         //get data from input
-        else {
+        if( this.$inputs.pokemon){
             name = this.$inputs.pokemon.value
 
         }

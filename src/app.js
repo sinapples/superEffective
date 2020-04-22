@@ -9,10 +9,10 @@ const { Alexa } = require('jovo-platform-alexa');
 const { GoogleAssistant } = require('jovo-platform-googleassistant');
 const { JovoDebugger } = require('jovo-plugin-debugger');
 const { FileDb } = require('jovo-db-filedb');
-const superEffectiveState = require('./controllers/superEffectiveState');
+const superEffectiveState = require('./controllers/types/superEffectiveState');
 const superEffectivePokemonState = require('./controllers/pokemon/superEffectivePokemonState');
 const resistPokemonState = require('./controllers/pokemon/resistPokemonState');
-const resistState = require('./controllers/resistState');
+const resistState = require('./controllers/types/resistState');
 const app = new App();
 
 app.use(

@@ -1,5 +1,5 @@
-const typetable = require('./effectiveness');
-const grammar = require('./languageUtils');
+const typetable = require('../effectiveness');
+const grammar = require('../languageUtils');
 
 module.exports = {
     superEffective() {
@@ -15,14 +15,12 @@ module.exports = {
             type2 = this.$session.$data.type1 ? this.$session.$data.type1 : this.$session.$data.typeOne ? this.$session.$data.typeOne : "";
         }
         //get data from input
-        else {
-            let input = this.$inputs.type.key;
-            //Alexa list
-            if (input.includes(" ")) {
-                type = input.split(" ")[0];
-                type2 = input.split(" ")[1];
+        if(this.$inputs.type || this.$inputs.typeOne){
+      //Alexa list
+            if(this.$alexaSkill){
+                type =this.$inputs.typeOne.value;
+                type2  =this.$inputs.typeTwo.value != undefined ? this.$inputs.typeTwo.value: "";
             } else {
-
                 type = this.$inputs.type.value
                 type2 = this.$inputs.type1 ? this.$inputs.type1.value : this.$inputs.typeOne ? this.$inputs.typeOne : "";
             }

@@ -1,5 +1,5 @@
-const typetable = require('./effectiveness');
-const grammar = require('./languageUtils');
+const typetable = require('../effectiveness');
+const grammar = require('../languageUtils');
 
 module.exports = {
     resist() {
@@ -15,18 +15,20 @@ module.exports = {
             type2 = this.$session.$data.type1 ? this.$session.$data.type1 : "";
         }
         //get data from input
-        else {
-            let input = this.$inputs.type.value;
+        
+            // let input = this.$inputs.type.value;
             //Alexa list
-            if (input.includes(" ")) {
-                type = input.split(" ")[0];
-                type2 = input.split(" ")[1];
-            } else {
+        if(this.$inputs.type || this.$inputs.typeOne){
 
+            if(this.$alexaSkill){
+                type =this.$inputs.typeOne.value;
+                type2  =this.$inputs.typeTwo.value != undefined ? this.$inputs.typeTwo.value: "";
+            }    else {
                 type = this.$inputs.type.value
                 type2 = this.$inputs.type1 ? this.$inputs.type1.value : this.$inputs.typeOne ? this.$inputs.typeOne : "";
             }
         }
+        
         //Save type in session 
         this.$session.$data.type = type ? type : "";
         this.$session.$data.type1 = type2 ? type2 : "";;
