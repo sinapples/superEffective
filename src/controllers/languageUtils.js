@@ -62,6 +62,19 @@
         }
     }
 
+    capitalizeWords = (text ) =>{
+
+        let words = text.split(" ");
+        let ret = "";
+        for(let i in words){
+           ret += capitalize(words[i]) + " ";
+        }
+
+        return removeLast(ret);
+
+
+    }
+
     capitalize = (text ) =>{
 
         if(text.charAt(0)===" "){
@@ -89,12 +102,20 @@
 
     }
 
+    removeLast = (text) => {
+        if(text.charAt(text.length-1)===',' || text.charAt(text.length-1)===' ')
+            text = text.substring(0, text.length - 1);
+        return text;
+    }
+
 module.exports = {
     singularOrPlural: singularPlural,
     addAnd: addAnd,
     addOr: addOr,
-    capitalize: capitalize,
-    titleCase: titleCase
+    capitalize: capitalizeWords,
+    titleCase: titleCase,
+    removeLastComma: removeLast,
+    capitalizeWords:capitalizeWords
 }
 
 

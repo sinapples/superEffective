@@ -42,7 +42,7 @@ app.setHandler({
 
     Welcome() {
         //Prepare Speach
-        this.$speech.addText("Welcome to Type Table!")
+        this.$speech.addText("Welcome to Pokemon Types!")
             .addText("Tell me the Pokemon's name or type and I'll tell you what is super effective against it!");
 
         //Prepare reprompt

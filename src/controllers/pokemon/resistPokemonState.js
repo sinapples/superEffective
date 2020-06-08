@@ -10,12 +10,12 @@ module.exports = {
 
         //get data from session
         if (this.$session.$data.pokemon) {
-            name = this.$session.$data.pokemon
+            name = typetable.getRegionalForm(this.$session.$data.pokemon)
 
         }
         //get data from input
         if( this.$inputs.pokemon){
-            name = this.$inputs.pokemon.value
+            name = typetable.getRegionalForm(this.$inputs.pokemon.key)
 
         }
         //Save type in session 

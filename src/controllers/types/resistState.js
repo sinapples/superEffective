@@ -21,11 +21,11 @@ module.exports = {
         if(this.$inputs.type || this.$inputs.typeOne){
 
             if(this.$alexaSkill){
-                type =this.$inputs.typeOne.value;
-                type2  =this.$inputs.typeTwo.value != undefined ? this.$inputs.typeTwo.value: "";
+                type =this.$inputs.typeOne.key;
+                type2  =this.$inputs.typeTwo.key != undefined ? this.$inputs.typeTwo.value: "";
             }    else {
-                type = this.$inputs.type.value
-                type2 = this.$inputs.type1 ? this.$inputs.type1.value : this.$inputs.typeOne ? this.$inputs.typeOne : "";
+                type = this.$inputs.type.key
+                type2 = this.$inputs.type1 ? this.$inputs.type1.key : this.$inputs.typeOne ? this.$inputs.typeOne : "";
             }
         }
         
