@@ -1,0 +1,3560 @@
+Bulbasaur sprite
+#001
+Bulbasaur
+Grass · Poison
+Ivysaur sprite
+#002
+Ivysaur
+Grass · Poison
+Venusaur sprite
+#003
+Venusaur
+Grass · Poison
+Charmander sprite
+#004
+Charmander
+Fire
+Charmeleon sprite
+#005
+Charmeleon
+Fire
+Charizard sprite
+#006
+Charizard
+Fire · Flying
+Squirtle sprite
+#007
+Squirtle
+Water
+Wartortle sprite
+#008
+Wartortle
+Water
+Blastoise sprite
+#009
+Blastoise
+Water
+Caterpie sprite
+#010
+Caterpie
+Bug
+Metapod sprite
+#011
+Metapod
+Bug
+Butterfree sprite
+#012
+Butterfree
+Bug · Flying
+Weedle sprite
+#013
+Weedle
+Bug · Poison
+Kakuna sprite
+#014
+Kakuna
+Bug · Poison
+Beedrill sprite
+#015
+Beedrill
+Bug · Poison
+Pidgey sprite
+#016
+Pidgey
+Normal · Flying
+Pidgeotto sprite
+#017
+Pidgeotto
+Normal · Flying
+Pidgeot sprite
+#018
+Pidgeot
+Normal · Flying
+Rattata sprite
+#019
+Rattata
+Normal
+Raticate sprite
+#020
+Raticate
+Normal
+Spearow sprite
+#021
+Spearow
+Normal · Flying
+Fearow sprite
+#022
+Fearow
+Normal · Flying
+Ekans sprite
+#023
+Ekans
+Poison
+Arbok sprite
+#024
+Arbok
+Poison
+Pikachu sprite
+#025
+Pikachu
+Electric
+Raichu sprite
+#026
+Raichu
+Electric
+Sandshrew sprite
+#027
+Sandshrew
+Ground
+Sandslash sprite
+#028
+Sandslash
+Ground
+Nidoran♀ sprite
+#029
+Nidoran♀
+Poison
+Nidorina sprite
+#030
+Nidorina
+Poison
+Nidoqueen sprite
+#031
+Nidoqueen
+Poison · Ground
+Nidoran♂ sprite
+#032
+Nidoran♂
+Poison
+Nidorino sprite
+#033
+Nidorino
+Poison
+Nidoking sprite
+#034
+Nidoking
+Poison · Ground
+Clefairy sprite
+#035
+Clefairy
+Fairy
+Clefable sprite
+#036
+Clefable
+Fairy
+Vulpix sprite
+#037
+Vulpix
+Fire
+Ninetales sprite
+#038
+Ninetales
+Fire
+Jigglypuff sprite
+#039
+Jigglypuff
+Normal · Fairy
+Wigglytuff sprite
+#040
+Wigglytuff
+Normal · Fairy
+Zubat sprite
+#041
+Zubat
+Poison · Flying
+Golbat sprite
+#042
+Golbat
+Poison · Flying
+Oddish sprite
+#043
+Oddish
+Grass · Poison
+Gloom sprite
+#044
+Gloom
+Grass · Poison
+Vileplume sprite
+#045
+Vileplume
+Grass · Poison
+Paras sprite
+#046
+Paras
+Bug · Grass
+Parasect sprite
+#047
+Parasect
+Bug · Grass
+Venonat sprite
+#048
+Venonat
+Bug · Poison
+Venomoth sprite
+#049
+Venomoth
+Bug · Poison
+Diglett sprite
+#050
+Diglett
+Ground
+Dugtrio sprite
+#051
+Dugtrio
+Ground
+Meowth sprite
+#052
+Meowth
+Normal
+Persian sprite
+#053
+Persian
+Normal
+Psyduck sprite
+#054
+Psyduck
+Water
+Golduck sprite
+#055
+Golduck
+Water
+Mankey sprite
+#056
+Mankey
+Fighting
+Primeape sprite
+#057
+Primeape
+Fighting
+Growlithe sprite
+#058
+Growlithe
+Fire
+Arcanine sprite
+#059
+Arcanine
+Fire
+Poliwag sprite
+#060
+Poliwag
+Water
+Poliwhirl sprite
+#061
+Poliwhirl
+Water
+Poliwrath sprite
+#062
+Poliwrath
+Water · Fighting
+Abra sprite
+#063
+Abra
+Psychic
+Kadabra sprite
+#064
+Kadabra
+Psychic
+Alakazam sprite
+#065
+Alakazam
+Psychic
+Machop sprite
+#066
+Machop
+Fighting
+Machoke sprite
+#067
+Machoke
+Fighting
+Machamp sprite
+#068
+Machamp
+Fighting
+Bellsprout sprite
+#069
+Bellsprout
+Grass · Poison
+Weepinbell sprite
+#070
+Weepinbell
+Grass · Poison
+Victreebel sprite
+#071
+Victreebel
+Grass · Poison
+Tentacool sprite
+#072
+Tentacool
+Water · Poison
+Tentacruel sprite
+#073
+Tentacruel
+Water · Poison
+Geodude sprite
+#074
+Geodude
+Rock · Ground
+Graveler sprite
+#075
+Graveler
+Rock · Ground
+Golem sprite
+#076
+Golem
+Rock · Ground
+Ponyta sprite
+#077
+Ponyta
+Fire
+Rapidash sprite
+#078
+Rapidash
+Fire
+Slowpoke sprite
+#079
+Slowpoke
+Water · Psychic
+Slowbro sprite
+#080
+Slowbro
+Water · Psychic
+Magnemite sprite
+#081
+Magnemite
+Electric · Steel
+Magneton sprite
+#082
+Magneton
+Electric · Steel
+Farfetch'd sprite
+#083
+Farfetch'd
+Normal · Flying
+Doduo sprite
+#084
+Doduo
+Normal · Flying
+Dodrio sprite
+#085
+Dodrio
+Normal · Flying
+Seel sprite
+#086
+Seel
+Water
+Dewgong sprite
+#087
+Dewgong
+Water · Ice
+Grimer sprite
+#088
+Grimer
+Poison
+Muk sprite
+#089
+Muk
+Poison
+Shellder sprite
+#090
+Shellder
+Water
+Cloyster sprite
+#091
+Cloyster
+Water · Ice
+Gastly sprite
+#092
+Gastly
+Ghost · Poison
+Haunter sprite
+#093
+Haunter
+Ghost · Poison
+Gengar sprite
+#094
+Gengar
+Ghost · Poison
+Onix sprite
+#095
+Onix
+Rock · Ground
+Drowzee sprite
+#096
+Drowzee
+Psychic
+Hypno sprite
+#097
+Hypno
+Psychic
+Krabby sprite
+#098
+Krabby
+Water
+Kingler sprite
+#099
+Kingler
+Water
+Voltorb sprite
+#100
+Voltorb
+Electric
+Electrode sprite
+#101
+Electrode
+Electric
+Exeggcute sprite
+#102
+Exeggcute
+Grass · Psychic
+Exeggutor sprite
+#103
+Exeggutor
+Grass · Psychic
+Cubone sprite
+#104
+Cubone
+Ground
+Marowak sprite
+#105
+Marowak
+Ground
+Hitmonlee sprite
+#106
+Hitmonlee
+Fighting
+Hitmonchan sprite
+#107
+Hitmonchan
+Fighting
+Lickitung sprite
+#108
+Lickitung
+Normal
+Koffing sprite
+#109
+Koffing
+Poison
+Weezing sprite
+#110
+Weezing
+Poison
+Rhyhorn sprite
+#111
+Rhyhorn
+Ground · Rock
+Rhydon sprite
+#112
+Rhydon
+Ground · Rock
+Chansey sprite
+#113
+Chansey
+Normal
+Tangela sprite
+#114
+Tangela
+Grass
+Kangaskhan sprite
+#115
+Kangaskhan
+Normal
+Horsea sprite
+#116
+Horsea
+Water
+Seadra sprite
+#117
+Seadra
+Water
+Goldeen sprite
+#118
+Goldeen
+Water
+Seaking sprite
+#119
+Seaking
+Water
+Staryu sprite
+#120
+Staryu
+Water
+Starmie sprite
+#121
+Starmie
+Water · Psychic
+Mr. Mime sprite
+#122
+Mr. Mime
+Psychic · Fairy
+Scyther sprite
+#123
+Scyther
+Bug · Flying
+Jynx sprite
+#124
+Jynx
+Ice · Psychic
+Electabuzz sprite
+#125
+Electabuzz
+Electric
+Magmar sprite
+#126
+Magmar
+Fire
+Pinsir sprite
+#127
+Pinsir
+Bug
+Tauros sprite
+#128
+Tauros
+Normal
+Magikarp sprite
+#129
+Magikarp
+Water
+Gyarados sprite
+#130
+Gyarados
+Water · Flying
+Lapras sprite
+#131
+Lapras
+Water · Ice
+Ditto sprite
+#132
+Ditto
+Normal
+Eevee sprite
+#133
+Eevee
+Normal
+Vaporeon sprite
+#134
+Vaporeon
+Water
+Jolteon sprite
+#135
+Jolteon
+Electric
+Flareon sprite
+#136
+Flareon
+Fire
+Porygon sprite
+#137
+Porygon
+Normal
+Omanyte sprite
+#138
+Omanyte
+Rock · Water
+Omastar sprite
+#139
+Omastar
+Rock · Water
+Kabuto sprite
+#140
+Kabuto
+Rock · Water
+Kabutops sprite
+#141
+Kabutops
+Rock · Water
+Aerodactyl sprite
+#142
+Aerodactyl
+Rock · Flying
+Snorlax sprite
+#143
+Snorlax
+Normal
+Articuno sprite
+#144
+Articuno
+Ice · Flying
+Zapdos sprite
+#145
+Zapdos
+Electric · Flying
+Moltres sprite
+#146
+Moltres
+Fire · Flying
+Dratini sprite
+#147
+Dratini
+Dragon
+Dragonair sprite
+#148
+Dragonair
+Dragon
+Dragonite sprite
+#149
+Dragonite
+Dragon · Flying
+Mewtwo sprite
+#150
+Mewtwo
+Psychic
+Mew sprite
+#151
+Mew
+Psychic
+Chikorita sprite
+#152
+Chikorita
+Grass
+Bayleef sprite
+#153
+Bayleef
+Grass
+Meganium sprite
+#154
+Meganium
+Grass
+Cyndaquil sprite
+#155
+Cyndaquil
+Fire
+Quilava sprite
+#156
+Quilava
+Fire
+Typhlosion sprite
+#157
+Typhlosion
+Fire
+Totodile sprite
+#158
+Totodile
+Water
+Croconaw sprite
+#159
+Croconaw
+Water
+Feraligatr sprite
+#160
+Feraligatr
+Water
+Sentret sprite
+#161
+Sentret
+Normal
+Furret sprite
+#162
+Furret
+Normal
+Hoothoot sprite
+#163
+Hoothoot
+Normal · Flying
+Noctowl sprite
+#164
+Noctowl
+Normal · Flying
+Ledyba sprite
+#165
+Ledyba
+Bug · Flying
+Ledian sprite
+#166
+Ledian
+Bug · Flying
+Spinarak sprite
+#167
+Spinarak
+Bug · Poison
+Ariados sprite
+#168
+Ariados
+Bug · Poison
+Crobat sprite
+#169
+Crobat
+Poison · Flying
+Chinchou sprite
+#170
+Chinchou
+Water · Electric
+Lanturn sprite
+#171
+Lanturn
+Water · Electric
+Pichu sprite
+#172
+Pichu
+Electric
+Cleffa sprite
+#173
+Cleffa
+Fairy
+Igglybuff sprite
+#174
+Igglybuff
+Normal · Fairy
+Togepi sprite
+#175
+Togepi
+Fairy
+Togetic sprite
+#176
+Togetic
+Fairy · Flying
+Natu sprite
+#177
+Natu
+Psychic · Flying
+Xatu sprite
+#178
+Xatu
+Psychic · Flying
+Mareep sprite
+#179
+Mareep
+Electric
+Flaaffy sprite
+#180
+Flaaffy
+Electric
+Ampharos sprite
+#181
+Ampharos
+Electric
+Bellossom sprite
+#182
+Bellossom
+Grass
+Marill sprite
+#183
+Marill
+Water · Fairy
+Azumarill sprite
+#184
+Azumarill
+Water · Fairy
+Sudowoodo sprite
+#185
+Sudowoodo
+Rock
+Politoed sprite
+#186
+Politoed
+Water
+Hoppip sprite
+#187
+Hoppip
+Grass · Flying
+Skiploom sprite
+#188
+Skiploom
+Grass · Flying
+Jumpluff sprite
+#189
+Jumpluff
+Grass · Flying
+Aipom sprite
+#190
+Aipom
+Normal
+Sunkern sprite
+#191
+Sunkern
+Grass
+Sunflora sprite
+#192
+Sunflora
+Grass
+Yanma sprite
+#193
+Yanma
+Bug · Flying
+Wooper sprite
+#194
+Wooper
+Water · Ground
+Quagsire sprite
+#195
+Quagsire
+Water · Ground
+Espeon sprite
+#196
+Espeon
+Psychic
+Umbreon sprite
+#197
+Umbreon
+Dark
+Murkrow sprite
+#198
+Murkrow
+Dark · Flying
+Slowking sprite
+#199
+Slowking
+Water · Psychic
+Misdreavus sprite
+#200
+Misdreavus
+Ghost
+Unown sprite
+#201
+Unown
+Psychic
+Wobbuffet sprite
+#202
+Wobbuffet
+Psychic
+Girafarig sprite
+#203
+Girafarig
+Normal · Psychic
+Pineco sprite
+#204
+Pineco
+Bug
+Forretress sprite
+#205
+Forretress
+Bug · Steel
+Dunsparce sprite
+#206
+Dunsparce
+Normal
+Gligar sprite
+#207
+Gligar
+Ground · Flying
+Steelix sprite
+#208
+Steelix
+Steel · Ground
+Snubbull sprite
+#209
+Snubbull
+Fairy
+Granbull sprite
+#210
+Granbull
+Fairy
+Qwilfish sprite
+#211
+Qwilfish
+Water · Poison
+Scizor sprite
+#212
+Scizor
+Bug · Steel
+Shuckle sprite
+#213
+Shuckle
+Bug · Rock
+Heracross sprite
+#214
+Heracross
+Bug · Fighting
+Sneasel sprite
+#215
+Sneasel
+Dark · Ice
+Teddiursa sprite
+#216
+Teddiursa
+Normal
+Ursaring sprite
+#217
+Ursaring
+Normal
+Slugma sprite
+#218
+Slugma
+Fire
+Magcargo sprite
+#219
+Magcargo
+Fire · Rock
+Swinub sprite
+#220
+Swinub
+Ice · Ground
+Piloswine sprite
+#221
+Piloswine
+Ice · Ground
+Corsola sprite
+#222
+Corsola
+Water · Rock
+Remoraid sprite
+#223
+Remoraid
+Water
+Octillery sprite
+#224
+Octillery
+Water
+Delibird sprite
+#225
+Delibird
+Ice · Flying
+Mantine sprite
+#226
+Mantine
+Water · Flying
+Skarmory sprite
+#227
+Skarmory
+Steel · Flying
+Houndour sprite
+#228
+Houndour
+Dark · Fire
+Houndoom sprite
+#229
+Houndoom
+Dark · Fire
+Kingdra sprite
+#230
+Kingdra
+Water · Dragon
+Phanpy sprite
+#231
+Phanpy
+Ground
+Donphan sprite
+#232
+Donphan
+Ground
+Porygon2 sprite
+#233
+Porygon2
+Normal
+Stantler sprite
+#234
+Stantler
+Normal
+Smeargle sprite
+#235
+Smeargle
+Normal
+Tyrogue sprite
+#236
+Tyrogue
+Fighting
+Hitmontop sprite
+#237
+Hitmontop
+Fighting
+Smoochum sprite
+#238
+Smoochum
+Ice · Psychic
+Elekid sprite
+#239
+Elekid
+Electric
+Magby sprite
+#240
+Magby
+Fire
+Miltank sprite
+#241
+Miltank
+Normal
+Blissey sprite
+#242
+Blissey
+Normal
+Raikou sprite
+#243
+Raikou
+Electric
+Entei sprite
+#244
+Entei
+Fire
+Suicune sprite
+#245
+Suicune
+Water
+Larvitar sprite
+#246
+Larvitar
+Rock · Ground
+Pupitar sprite
+#247
+Pupitar
+Rock · Ground
+Tyranitar sprite
+#248
+Tyranitar
+Rock · Dark
+Lugia sprite
+#249
+Lugia
+Psychic · Flying
+Ho-oh sprite
+#250
+Ho-oh
+Fire · Flying
+Celebi sprite
+#251
+Celebi
+Psychic · Grass
+Treecko sprite
+#252
+Treecko
+Grass
+Grovyle sprite
+#253
+Grovyle
+Grass
+Sceptile sprite
+#254
+Sceptile
+Grass
+Torchic sprite
+#255
+Torchic
+Fire
+Combusken sprite
+#256
+Combusken
+Fire · Fighting
+Blaziken sprite
+#257
+Blaziken
+Fire · Fighting
+Mudkip sprite
+#258
+Mudkip
+Water
+Marshtomp sprite
+#259
+Marshtomp
+Water · Ground
+Swampert sprite
+#260
+Swampert
+Water · Ground
+Poochyena sprite
+#261
+Poochyena
+Dark
+Mightyena sprite
+#262
+Mightyena
+Dark
+Zigzagoon sprite
+#263
+Zigzagoon
+Normal
+Linoone sprite
+#264
+Linoone
+Normal
+Wurmple sprite
+#265
+Wurmple
+Bug
+Silcoon sprite
+#266
+Silcoon
+Bug
+Beautifly sprite
+#267
+Beautifly
+Bug · Flying
+Cascoon sprite
+#268
+Cascoon
+Bug
+Dustox sprite
+#269
+Dustox
+Bug · Poison
+Lotad sprite
+#270
+Lotad
+Water · Grass
+Lombre sprite
+#271
+Lombre
+Water · Grass
+Ludicolo sprite
+#272
+Ludicolo
+Water · Grass
+Seedot sprite
+#273
+Seedot
+Grass
+Nuzleaf sprite
+#274
+Nuzleaf
+Grass · Dark
+Shiftry sprite
+#275
+Shiftry
+Grass · Dark
+Taillow sprite
+#276
+Taillow
+Normal · Flying
+Swellow sprite
+#277
+Swellow
+Normal · Flying
+Wingull sprite
+#278
+Wingull
+Water · Flying
+Pelipper sprite
+#279
+Pelipper
+Water · Flying
+Ralts sprite
+#280
+Ralts
+Psychic · Fairy
+Kirlia sprite
+#281
+Kirlia
+Psychic · Fairy
+Gardevoir sprite
+#282
+Gardevoir
+Psychic · Fairy
+Surskit sprite
+#283
+Surskit
+Bug · Water
+Masquerain sprite
+#284
+Masquerain
+Bug · Flying
+Shroomish sprite
+#285
+Shroomish
+Grass
+Breloom sprite
+#286
+Breloom
+Grass · Fighting
+Slakoth sprite
+#287
+Slakoth
+Normal
+Vigoroth sprite
+#288
+Vigoroth
+Normal
+Slaking sprite
+#289
+Slaking
+Normal
+Nincada sprite
+#290
+Nincada
+Bug · Ground
+Ninjask sprite
+#291
+Ninjask
+Bug · Flying
+Shedinja sprite
+#292
+Shedinja
+Bug · Ghost
+Whismur sprite
+#293
+Whismur
+Normal
+Loudred sprite
+#294
+Loudred
+Normal
+Exploud sprite
+#295
+Exploud
+Normal
+Makuhita sprite
+#296
+Makuhita
+Fighting
+Hariyama sprite
+#297
+Hariyama
+Fighting
+Azurill sprite
+#298
+Azurill
+Normal · Fairy
+Nosepass sprite
+#299
+Nosepass
+Rock
+Skitty sprite
+#300
+Skitty
+Normal
+Delcatty sprite
+#301
+Delcatty
+Normal
+Sableye sprite
+#302
+Sableye
+Dark · Ghost
+Mawile sprite
+#303
+Mawile
+Steel · Fairy
+Aron sprite
+#304
+Aron
+Steel · Rock
+Lairon sprite
+#305
+Lairon
+Steel · Rock
+Aggron sprite
+#306
+Aggron
+Steel · Rock
+Meditite sprite
+#307
+Meditite
+Fighting · Psychic
+Medicham sprite
+#308
+Medicham
+Fighting · Psychic
+Electrike sprite
+#309
+Electrike
+Electric
+Manectric sprite
+#310
+Manectric
+Electric
+Plusle sprite
+#311
+Plusle
+Electric
+Minun sprite
+#312
+Minun
+Electric
+Volbeat sprite
+#313
+Volbeat
+Bug
+Illumise sprite
+#314
+Illumise
+Bug
+Roselia sprite
+#315
+Roselia
+Grass · Poison
+Gulpin sprite
+#316
+Gulpin
+Poison
+Swalot sprite
+#317
+Swalot
+Poison
+Carvanha sprite
+#318
+Carvanha
+Water · Dark
+Sharpedo sprite
+#319
+Sharpedo
+Water · Dark
+Wailmer sprite
+#320
+Wailmer
+Water
+Wailord sprite
+#321
+Wailord
+Water
+Numel sprite
+#322
+Numel
+Fire · Ground
+Camerupt sprite
+#323
+Camerupt
+Fire · Ground
+Torkoal sprite
+#324
+Torkoal
+Fire
+Spoink sprite
+#325
+Spoink
+Psychic
+Grumpig sprite
+#326
+Grumpig
+Psychic
+Spinda sprite
+#327
+Spinda
+Normal
+Trapinch sprite
+#328
+Trapinch
+Ground
+Vibrava sprite
+#329
+Vibrava
+Ground · Dragon
+Flygon sprite
+#330
+Flygon
+Ground · Dragon
+Cacnea sprite
+#331
+Cacnea
+Grass
+Cacturne sprite
+#332
+Cacturne
+Grass · Dark
+Swablu sprite
+#333
+Swablu
+Normal · Flying
+Altaria sprite
+#334
+Altaria
+Dragon · Flying
+Zangoose sprite
+#335
+Zangoose
+Normal
+Seviper sprite
+#336
+Seviper
+Poison
+Lunatone sprite
+#337
+Lunatone
+Rock · Psychic
+Solrock sprite
+#338
+Solrock
+Rock · Psychic
+Barboach sprite
+#339
+Barboach
+Water · Ground
+Whiscash sprite
+#340
+Whiscash
+Water · Ground
+Corphish sprite
+#341
+Corphish
+Water
+Crawdaunt sprite
+#342
+Crawdaunt
+Water · Dark
+Baltoy sprite
+#343
+Baltoy
+Ground · Psychic
+Claydol sprite
+#344
+Claydol
+Ground · Psychic
+Lileep sprite
+#345
+Lileep
+Rock · Grass
+Cradily sprite
+#346
+Cradily
+Rock · Grass
+Anorith sprite
+#347
+Anorith
+Rock · Bug
+Armaldo sprite
+#348
+Armaldo
+Rock · Bug
+Feebas sprite
+#349
+Feebas
+Water
+Milotic sprite
+#350
+Milotic
+Water
+Castform sprite
+#351
+Castform
+Normal
+Kecleon sprite
+#352
+Kecleon
+Normal
+Shuppet sprite
+#353
+Shuppet
+Ghost
+Banette sprite
+#354
+Banette
+Ghost
+Duskull sprite
+#355
+Duskull
+Ghost
+Dusclops sprite
+#356
+Dusclops
+Ghost
+Tropius sprite
+#357
+Tropius
+Grass · Flying
+Chimecho sprite
+#358
+Chimecho
+Psychic
+Absol sprite
+#359
+Absol
+Dark
+Wynaut sprite
+#360
+Wynaut
+Psychic
+Snorunt sprite
+#361
+Snorunt
+Ice
+Glalie sprite
+#362
+Glalie
+Ice
+Spheal sprite
+#363
+Spheal
+Ice · Water
+Sealeo sprite
+#364
+Sealeo
+Ice · Water
+Walrein sprite
+#365
+Walrein
+Ice · Water
+Clamperl sprite
+#366
+Clamperl
+Water
+Huntail sprite
+#367
+Huntail
+Water
+Gorebyss sprite
+#368
+Gorebyss
+Water
+Relicanth sprite
+#369
+Relicanth
+Water · Rock
+Luvdisc sprite
+#370
+Luvdisc
+Water
+Bagon sprite
+#371
+Bagon
+Dragon
+Shelgon sprite
+#372
+Shelgon
+Dragon
+Salamence sprite
+#373
+Salamence
+Dragon · Flying
+Beldum sprite
+#374
+Beldum
+Steel · Psychic
+Metang sprite
+#375
+Metang
+Steel · Psychic
+Metagross sprite
+#376
+Metagross
+Steel · Psychic
+Regirock sprite
+#377
+Regirock
+Rock
+Regice sprite
+#378
+Regice
+Ice
+Registeel sprite
+#379
+Registeel
+Steel
+Latias sprite
+#380
+Latias
+Dragon · Psychic
+Latios sprite
+#381
+Latios
+Dragon · Psychic
+Kyogre sprite
+#382
+Kyogre
+Water
+Groudon sprite
+#383
+Groudon
+Ground
+Rayquaza sprite
+#384
+Rayquaza
+Dragon · Flying
+Jirachi sprite
+#385
+Jirachi
+Steel · Psychic
+Deoxys (Normal Forme) sprite
+#386
+Deoxys
+Psychic
+Turtwig sprite
+#387
+Turtwig
+Grass
+Grotle sprite
+#388
+Grotle
+Grass
+Torterra sprite
+#389
+Torterra
+Grass · Ground
+Chimchar sprite
+#390
+Chimchar
+Fire
+Monferno sprite
+#391
+Monferno
+Fire · Fighting
+Infernape sprite
+#392
+Infernape
+Fire · Fighting
+Piplup sprite
+#393
+Piplup
+Water
+Prinplup sprite
+#394
+Prinplup
+Water
+Empoleon sprite
+#395
+Empoleon
+Water · Steel
+Starly sprite
+#396
+Starly
+Normal · Flying
+Staravia sprite
+#397
+Staravia
+Normal · Flying
+Staraptor sprite
+#398
+Staraptor
+Normal · Flying
+Bidoof sprite
+#399
+Bidoof
+Normal
+Bibarel sprite
+#400
+Bibarel
+Normal · Water
+Kricketot sprite
+#401
+Kricketot
+Bug
+Kricketune sprite
+#402
+Kricketune
+Bug
+Shinx sprite
+#403
+Shinx
+Electric
+Luxio sprite
+#404
+Luxio
+Electric
+Luxray sprite
+#405
+Luxray
+Electric
+Budew sprite
+#406
+Budew
+Grass · Poison
+Roserade sprite
+#407
+Roserade
+Grass · Poison
+Cranidos sprite
+#408
+Cranidos
+Rock
+Rampardos sprite
+#409
+Rampardos
+Rock
+Shieldon sprite
+#410
+Shieldon
+Rock · Steel
+Bastiodon sprite
+#411
+Bastiodon
+Rock · Steel
+Burmy sprite
+#412
+Burmy
+Bug
+Wormadam (Plant Cloak) sprite
+#413
+Wormadam
+Bug · Grass
+Mothim sprite
+#414
+Mothim
+Bug · Flying
+Combee sprite
+#415
+Combee
+Bug · Flying
+Vespiquen sprite
+#416
+Vespiquen
+Bug · Flying
+Pachirisu sprite
+#417
+Pachirisu
+Electric
+Buizel sprite
+#418
+Buizel
+Water
+Floatzel sprite
+#419
+Floatzel
+Water
+Cherubi sprite
+#420
+Cherubi
+Grass
+Cherrim sprite
+#421
+Cherrim
+Grass
+Shellos sprite
+#422
+Shellos
+Water
+Gastrodon sprite
+#423
+Gastrodon
+Water · Ground
+Ambipom sprite
+#424
+Ambipom
+Normal
+Drifloon sprite
+#425
+Drifloon
+Ghost · Flying
+Drifblim sprite
+#426
+Drifblim
+Ghost · Flying
+Buneary sprite
+#427
+Buneary
+Normal
+Lopunny sprite
+#428
+Lopunny
+Normal
+Mismagius sprite
+#429
+Mismagius
+Ghost
+Honchkrow sprite
+#430
+Honchkrow
+Dark · Flying
+Glameow sprite
+#431
+Glameow
+Normal
+Purugly sprite
+#432
+Purugly
+Normal
+Chingling sprite
+#433
+Chingling
+Psychic
+Stunky sprite
+#434
+Stunky
+Poison · Dark
+Skuntank sprite
+#435
+Skuntank
+Poison · Dark
+Bronzor sprite
+#436
+Bronzor
+Steel · Psychic
+Bronzong sprite
+#437
+Bronzong
+Steel · Psychic
+Bonsly sprite
+#438
+Bonsly
+Rock
+Mime Jr. sprite
+#439
+Mime Jr.
+Psychic · Fairy
+Happiny sprite
+#440
+Happiny
+Normal
+Chatot sprite
+#441
+Chatot
+Normal · Flying
+Spiritomb sprite
+#442
+Spiritomb
+Ghost · Dark
+Gible sprite
+#443
+Gible
+Dragon · Ground
+Gabite sprite
+#444
+Gabite
+Dragon · Ground
+Garchomp sprite
+#445
+Garchomp
+Dragon · Ground
+Munchlax sprite
+#446
+Munchlax
+Normal
+Riolu sprite
+#447
+Riolu
+Fighting
+Lucario sprite
+#448
+Lucario
+Fighting · Steel
+Hippopotas sprite
+#449
+Hippopotas
+Ground
+Hippowdon sprite
+#450
+Hippowdon
+Ground
+Skorupi sprite
+#451
+Skorupi
+Poison · Bug
+Drapion sprite
+#452
+Drapion
+Poison · Dark
+Croagunk sprite
+#453
+Croagunk
+Poison · Fighting
+Toxicroak sprite
+#454
+Toxicroak
+Poison · Fighting
+Carnivine sprite
+#455
+Carnivine
+Grass
+Finneon sprite
+#456
+Finneon
+Water
+Lumineon sprite
+#457
+Lumineon
+Water
+Mantyke sprite
+#458
+Mantyke
+Water · Flying
+Snover sprite
+#459
+Snover
+Grass · Ice
+Abomasnow sprite
+#460
+Abomasnow
+Grass · Ice
+Weavile sprite
+#461
+Weavile
+Dark · Ice
+Magnezone sprite
+#462
+Magnezone
+Electric · Steel
+Lickilicky sprite
+#463
+Lickilicky
+Normal
+Rhyperior sprite
+#464
+Rhyperior
+Ground · Rock
+Tangrowth sprite
+#465
+Tangrowth
+Grass
+Electivire sprite
+#466
+Electivire
+Electric
+Magmortar sprite
+#467
+Magmortar
+Fire
+Togekiss sprite
+#468
+Togekiss
+Fairy · Flying
+Yanmega sprite
+#469
+Yanmega
+Bug · Flying
+Leafeon sprite
+#470
+Leafeon
+Grass
+Glaceon sprite
+#471
+Glaceon
+Ice
+Gliscor sprite
+#472
+Gliscor
+Ground · Flying
+Mamoswine sprite
+#473
+Mamoswine
+Ice · Ground
+Porygon-Z sprite
+#474
+Porygon-Z
+Normal
+Gallade sprite
+#475
+Gallade
+Psychic · Fighting
+Probopass sprite
+#476
+Probopass
+Rock · Steel
+Dusknoir sprite
+#477
+Dusknoir
+Ghost
+Froslass sprite
+#478
+Froslass
+Ice · Ghost
+Rotom sprite
+#479
+Rotom
+Electric · Ghost
+Uxie sprite
+#480
+Uxie
+Psychic
+Mesprit sprite
+#481
+Mesprit
+Psychic
+Azelf sprite
+#482
+Azelf
+Psychic
+Dialga sprite
+#483
+Dialga
+Steel · Dragon
+Palkia sprite
+#484
+Palkia
+Water · Dragon
+Heatran sprite
+#485
+Heatran
+Fire · Steel
+Regigigas sprite
+#486
+Regigigas
+Normal
+Giratina (Altered Forme) sprite
+#487
+Giratina
+Ghost · Dragon
+Cresselia sprite
+#488
+Cresselia
+Psychic
+Phione sprite
+#489
+Phione
+Water
+Manaphy sprite
+#490
+Manaphy
+Water
+Darkrai sprite
+#491
+Darkrai
+Dark
+Shaymin (Land Forme) sprite
+#492
+Shaymin
+Grass
+Arceus sprite
+#493
+Arceus
+Normal
+Victini sprite
+#494
+Victini
+Psychic · Fire
+Snivy sprite
+#495
+Snivy
+Grass
+Servine sprite
+#496
+Servine
+Grass
+Serperior sprite
+#497
+Serperior
+Grass
+Tepig sprite
+#498
+Tepig
+Fire
+Pignite sprite
+#499
+Pignite
+Fire · Fighting
+Emboar sprite
+#500
+Emboar
+Fire · Fighting
+Oshawott sprite
+#501
+Oshawott
+Water
+Dewott sprite
+#502
+Dewott
+Water
+Samurott sprite
+#503
+Samurott
+Water
+Patrat sprite
+#504
+Patrat
+Normal
+Watchog sprite
+#505
+Watchog
+Normal
+Lillipup sprite
+#506
+Lillipup
+Normal
+Herdier sprite
+#507
+Herdier
+Normal
+Stoutland sprite
+#508
+Stoutland
+Normal
+Purrloin sprite
+#509
+Purrloin
+Dark
+Liepard sprite
+#510
+Liepard
+Dark
+Pansage sprite
+#511
+Pansage
+Grass
+Simisage sprite
+#512
+Simisage
+Grass
+Pansear sprite
+#513
+Pansear
+Fire
+Simisear sprite
+#514
+Simisear
+Fire
+Panpour sprite
+#515
+Panpour
+Water
+Simipour sprite
+#516
+Simipour
+Water
+Munna sprite
+#517
+Munna
+Psychic
+Musharna sprite
+#518
+Musharna
+Psychic
+Pidove sprite
+#519
+Pidove
+Normal · Flying
+Tranquill sprite
+#520
+Tranquill
+Normal · Flying
+Unfezant sprite
+#521
+Unfezant
+Normal · Flying
+Blitzle sprite
+#522
+Blitzle
+Electric
+Zebstrika sprite
+#523
+Zebstrika
+Electric
+Roggenrola sprite
+#524
+Roggenrola
+Rock
+Boldore sprite
+#525
+Boldore
+Rock
+Gigalith sprite
+#526
+Gigalith
+Rock
+Woobat sprite
+#527
+Woobat
+Psychic · Flying
+Swoobat sprite
+#528
+Swoobat
+Psychic · Flying
+Drilbur sprite
+#529
+Drilbur
+Ground
+Excadrill sprite
+#530
+Excadrill
+Ground · Steel
+Audino sprite
+#531
+Audino
+Normal
+Timburr sprite
+#532
+Timburr
+Fighting
+Gurdurr sprite
+#533
+Gurdurr
+Fighting
+Conkeldurr sprite
+#534
+Conkeldurr
+Fighting
+Tympole sprite
+#535
+Tympole
+Water
+Palpitoad sprite
+#536
+Palpitoad
+Water · Ground
+Seismitoad sprite
+#537
+Seismitoad
+Water · Ground
+Throh sprite
+#538
+Throh
+Fighting
+Sawk sprite
+#539
+Sawk
+Fighting
+Sewaddle sprite
+#540
+Sewaddle
+Bug · Grass
+Swadloon sprite
+#541
+Swadloon
+Bug · Grass
+Leavanny sprite
+#542
+Leavanny
+Bug · Grass
+Venipede sprite
+#543
+Venipede
+Bug · Poison
+Whirlipede sprite
+#544
+Whirlipede
+Bug · Poison
+Scolipede sprite
+#545
+Scolipede
+Bug · Poison
+Cottonee sprite
+#546
+Cottonee
+Grass · Fairy
+Whimsicott sprite
+#547
+Whimsicott
+Grass · Fairy
+Petilil sprite
+#548
+Petilil
+Grass
+Lilligant sprite
+#549
+Lilligant
+Grass
+Basculin (Red-Striped Form) sprite
+#550
+Basculin
+Water
+Sandile sprite
+#551
+Sandile
+Ground · Dark
+Krokorok sprite
+#552
+Krokorok
+Ground · Dark
+Krookodile sprite
+#553
+Krookodile
+Ground · Dark
+Darumaka sprite
+#554
+Darumaka
+Fire
+Darmanitan (Standard Mode) sprite
+#555
+Darmanitan
+Fire
+Maractus sprite
+#556
+Maractus
+Grass
+Dwebble sprite
+#557
+Dwebble
+Bug · Rock
+Crustle sprite
+#558
+Crustle
+Bug · Rock
+Scraggy sprite
+#559
+Scraggy
+Dark · Fighting
+Scrafty sprite
+#560
+Scrafty
+Dark · Fighting
+Sigilyph sprite
+#561
+Sigilyph
+Psychic · Flying
+Yamask sprite
+#562
+Yamask
+Ghost
+Cofagrigus sprite
+#563
+Cofagrigus
+Ghost
+Tirtouga sprite
+#564
+Tirtouga
+Water · Rock
+Carracosta sprite
+#565
+Carracosta
+Water · Rock
+Archen sprite
+#566
+Archen
+Rock · Flying
+Archeops sprite
+#567
+Archeops
+Rock · Flying
+Trubbish sprite
+#568
+Trubbish
+Poison
+Garbodor sprite
+#569
+Garbodor
+Poison
+Zorua sprite
+#570
+Zorua
+Dark
+Zoroark sprite
+#571
+Zoroark
+Dark
+Minccino sprite
+#572
+Minccino
+Normal
+Cinccino sprite
+#573
+Cinccino
+Normal
+Gothita sprite
+#574
+Gothita
+Psychic
+Gothorita sprite
+#575
+Gothorita
+Psychic
+Gothitelle sprite
+#576
+Gothitelle
+Psychic
+Solosis sprite
+#577
+Solosis
+Psychic
+Duosion sprite
+#578
+Duosion
+Psychic
+Reuniclus sprite
+#579
+Reuniclus
+Psychic
+Ducklett sprite
+#580
+Ducklett
+Water · Flying
+Swanna sprite
+#581
+Swanna
+Water · Flying
+Vanillite sprite
+#582
+Vanillite
+Ice
+Vanillish sprite
+#583
+Vanillish
+Ice
+Vanilluxe sprite
+#584
+Vanilluxe
+Ice
+Deerling sprite
+#585
+Deerling
+Normal · Grass
+Sawsbuck sprite
+#586
+Sawsbuck
+Normal · Grass
+Emolga sprite
+#587
+Emolga
+Electric · Flying
+Karrablast sprite
+#588
+Karrablast
+Bug
+Escavalier sprite
+#589
+Escavalier
+Bug · Steel
+Foongus sprite
+#590
+Foongus
+Grass · Poison
+Amoonguss sprite
+#591
+Amoonguss
+Grass · Poison
+Frillish sprite
+#592
+Frillish
+Water · Ghost
+Jellicent sprite
+#593
+Jellicent
+Water · Ghost
+Alomomola sprite
+#594
+Alomomola
+Water
+Joltik sprite
+#595
+Joltik
+Bug · Electric
+Galvantula sprite
+#596
+Galvantula
+Bug · Electric
+Ferroseed sprite
+#597
+Ferroseed
+Grass · Steel
+Ferrothorn sprite
+#598
+Ferrothorn
+Grass · Steel
+Klink sprite
+#599
+Klink
+Steel
+Klang sprite
+#600
+Klang
+Steel
+Klinklang sprite
+#601
+Klinklang
+Steel
+Tynamo sprite
+#602
+Tynamo
+Electric
+Eelektrik sprite
+#603
+Eelektrik
+Electric
+Eelektross sprite
+#604
+Eelektross
+Electric
+Elgyem sprite
+#605
+Elgyem
+Psychic
+Beheeyem sprite
+#606
+Beheeyem
+Psychic
+Litwick sprite
+#607
+Litwick
+Ghost · Fire
+Lampent sprite
+#608
+Lampent
+Ghost · Fire
+Chandelure sprite
+#609
+Chandelure
+Ghost · Fire
+Axew sprite
+#610
+Axew
+Dragon
+Fraxure sprite
+#611
+Fraxure
+Dragon
+Haxorus sprite
+#612
+Haxorus
+Dragon
+Cubchoo sprite
+#613
+Cubchoo
+Ice
+Beartic sprite
+#614
+Beartic
+Ice
+Cryogonal sprite
+#615
+Cryogonal
+Ice
+Shelmet sprite
+#616
+Shelmet
+Bug
+Accelgor sprite
+#617
+Accelgor
+Bug
+Stunfisk sprite
+#618
+Stunfisk
+Ground · Electric
+Mienfoo sprite
+#619
+Mienfoo
+Fighting
+Mienshao sprite
+#620
+Mienshao
+Fighting
+Druddigon sprite
+#621
+Druddigon
+Dragon
+Golett sprite
+#622
+Golett
+Ground · Ghost
+Golurk sprite
+#623
+Golurk
+Ground · Ghost
+Pawniard sprite
+#624
+Pawniard
+Dark · Steel
+Bisharp sprite
+#625
+Bisharp
+Dark · Steel
+Bouffalant sprite
+#626
+Bouffalant
+Normal
+Rufflet sprite
+#627
+Rufflet
+Normal · Flying
+Braviary sprite
+#628
+Braviary
+Normal · Flying
+Vullaby sprite
+#629
+Vullaby
+Dark · Flying
+Mandibuzz sprite
+#630
+Mandibuzz
+Dark · Flying
+Heatmor sprite
+#631
+Heatmor
+Fire
+Durant sprite
+#632
+Durant
+Bug · Steel
+Deino sprite
+#633
+Deino
+Dark · Dragon
+Zweilous sprite
+#634
+Zweilous
+Dark · Dragon
+Hydreigon sprite
+#635
+Hydreigon
+Dark · Dragon
+Larvesta sprite
+#636
+Larvesta
+Bug · Fire
+Volcarona sprite
+#637
+Volcarona
+Bug · Fire
+Cobalion sprite
+#638
+Cobalion
+Steel · Fighting
+Terrakion sprite
+#639
+Terrakion
+Rock · Fighting
+Virizion sprite
+#640
+Virizion
+Grass · Fighting
+Tornadus (Incarnate Forme) sprite
+#641
+Tornadus
+Flying
+Thundurus (Incarnate Forme) sprite
+#642
+Thundurus
+Electric · Flying
+Reshiram sprite
+#643
+Reshiram
+Dragon · Fire
+Zekrom sprite
+#644
+Zekrom
+Dragon · Electric
+Landorus (Incarnate Forme) sprite
+#645
+Landorus
+Ground · Flying
+Kyurem sprite
+#646
+Kyurem
+Dragon · Ice
+Keldeo (Ordinary Forme) sprite
+#647
+Keldeo
+Water · Fighting
+Meloetta (Aria Forme) sprite
+#648
+Meloetta
+Normal · Psychic
+Genesect sprite
+#649
+Genesect
+Bug · Steel
+Chespin sprite
+#650
+Chespin
+Grass
+Quilladin sprite
+#651
+Quilladin
+Grass
+Chesnaught sprite
+#652
+Chesnaught
+Grass · Fighting
+Fennekin sprite
+#653
+Fennekin
+Fire
+Braixen sprite
+#654
+Braixen
+Fire
+Delphox sprite
+#655
+Delphox
+Fire · Psychic
+Froakie sprite
+#656
+Froakie
+Water
+Frogadier sprite
+#657
+Frogadier
+Water
+Greninja sprite
+#658
+Greninja
+Water · Dark
+Bunnelby sprite
+#659
+Bunnelby
+Normal
+Diggersby sprite
+#660
+Diggersby
+Normal · Ground
+Fletchling sprite
+#661
+Fletchling
+Normal · Flying
+Fletchinder sprite
+#662
+Fletchinder
+Fire · Flying
+Talonflame sprite
+#663
+Talonflame
+Fire · Flying
+Scatterbug sprite
+#664
+Scatterbug
+Bug
+Spewpa sprite
+#665
+Spewpa
+Bug
+Vivillon sprite
+#666
+Vivillon
+Bug · Flying
+Litleo sprite
+#667
+Litleo
+Fire · Normal
+Pyroar sprite
+#668
+Pyroar
+Fire · Normal
+Flabébé sprite
+#669
+Flabébé
+Fairy
+Floette sprite
+#670
+Floette
+Fairy
+Florges sprite
+#671
+Florges
+Fairy
+Skiddo sprite
+#672
+Skiddo
+Grass
+Gogoat sprite
+#673
+Gogoat
+Grass
+Pancham sprite
+#674
+Pancham
+Fighting
+Pangoro sprite
+#675
+Pangoro
+Fighting · Dark
+Furfrou sprite
+#676
+Furfrou
+Normal
+Espurr sprite
+#677
+Espurr
+Psychic
+Meowstic (Male) sprite
+#678
+Meowstic
+Psychic
+Honedge sprite
+#679
+Honedge
+Steel · Ghost
+Doublade sprite
+#680
+Doublade
+Steel · Ghost
+Aegislash (Blade Forme) sprite
+#681
+Aegislash
+Steel · Ghost
+Spritzee sprite
+#682
+Spritzee
+Fairy
+Aromatisse sprite
+#683
+Aromatisse
+Fairy
+Swirlix sprite
+#684
+Swirlix
+Fairy
+Slurpuff sprite
+#685
+Slurpuff
+Fairy
+Inkay sprite
+#686
+Inkay
+Dark · Psychic
+Malamar sprite
+#687
+Malamar
+Dark · Psychic
+Binacle sprite
+#688
+Binacle
+Rock · Water
+Barbaracle sprite
+#689
+Barbaracle
+Rock · Water
+Skrelp sprite
+#690
+Skrelp
+Poison · Water
+Dragalge sprite
+#691
+Dragalge
+Poison · Dragon
+Clauncher sprite
+#692
+Clauncher
+Water
+Clawitzer sprite
+#693
+Clawitzer
+Water
+Helioptile sprite
+#694
+Helioptile
+Electric · Normal
+Heliolisk sprite
+#695
+Heliolisk
+Electric · Normal
+Tyrunt sprite
+#696
+Tyrunt
+Rock · Dragon
+Tyrantrum sprite
+#697
+Tyrantrum
+Rock · Dragon
+Amaura sprite
+#698
+Amaura
+Rock · Ice
+Aurorus sprite
+#699
+Aurorus
+Rock · Ice
+Sylveon sprite
+#700
+Sylveon
+Fairy
+Hawlucha sprite
+#701
+Hawlucha
+Fighting · Flying
+Dedenne sprite
+#702
+Dedenne
+Electric · Fairy
+Carbink sprite
+#703
+Carbink
+Rock · Fairy
+Goomy sprite
+#704
+Goomy
+Dragon
+Sliggoo sprite
+#705
+Sliggoo
+Dragon
+Goodra sprite
+#706
+Goodra
+Dragon
+Klefki sprite
+#707
+Klefki
+Steel · Fairy
+Phantump sprite
+#708
+Phantump
+Ghost · Grass
+Trevenant sprite
+#709
+Trevenant
+Ghost · Grass
+Pumpkaboo (Average Size) sprite
+#710
+Pumpkaboo
+Ghost · Grass
+Gourgeist (Average Size) sprite
+#711
+Gourgeist
+Ghost · Grass
+Bergmite sprite
+#712
+Bergmite
+Ice
+Avalugg sprite
+#713
+Avalugg
+Ice
+Noibat sprite
+#714
+Noibat
+Flying · Dragon
+Noivern sprite
+#715
+Noivern
+Flying · Dragon
+Xerneas sprite
+#716
+Xerneas
+Fairy
+Yveltal sprite
+#717
+Yveltal
+Dark · Flying
+Zygarde (50% Forme) sprite
+#718
+Zygarde
+Dragon · Ground
+Diancie sprite
+#719
+Diancie
+Rock · Fairy
+Hoopa (Hoopa Confined) sprite
+#720
+Hoopa
+Psychic · Ghost
+Volcanion sprite
+#721
+Volcanion
+Fire · Water
+Rowlet sprite
+#722
+Rowlet
+Grass · Flying
+Dartrix sprite
+#723
+Dartrix
+Grass · Flying
+Decidueye sprite
+#724
+Decidueye
+Grass · Ghost
+Litten sprite
+#725
+Litten
+Fire
+Torracat sprite
+#726
+Torracat
+Fire
+Incineroar sprite
+#727
+Incineroar
+Fire · Dark
+Popplio sprite
+#728
+Popplio
+Water
+Brionne sprite
+#729
+Brionne
+Water
+Primarina sprite
+#730
+Primarina
+Water · Fairy
+Pikipek sprite
+#731
+Pikipek
+Normal · Flying
+Trumbeak sprite
+#732
+Trumbeak
+Normal · Flying
+Toucannon sprite
+#733
+Toucannon
+Normal · Flying
+Yungoos sprite
+#734
+Yungoos
+Normal
+Gumshoos sprite
+#735
+Gumshoos
+Normal
+Grubbin sprite
+#736
+Grubbin
+Bug
+Charjabug sprite
+#737
+Charjabug
+Bug · Electric
+Vikavolt sprite
+#738
+Vikavolt
+Bug · Electric
+Crabrawler sprite
+#739
+Crabrawler
+Fighting
+Crabominable sprite
+#740
+Crabominable
+Fighting · Ice
+Oricorio (Baile Style) sprite
+#741
+Oricorio
+Fire · Flying
+Cutiefly sprite
+#742
+Cutiefly
+Bug · Fairy
+Ribombee sprite
+#743
+Ribombee
+Bug · Fairy
+Rockruff sprite
+#744
+Rockruff
+Rock
+Lycanroc (Midday Form) sprite
+#745
+Lycanroc
+Rock
+Wishiwashi (Solo Form) sprite
+#746
+Wishiwashi
+Water
+Mareanie sprite
+#747
+Mareanie
+Poison · Water
+Toxapex sprite
+#748
+Toxapex
+Poison · Water
+Mudbray sprite
+#749
+Mudbray
+Ground
+Mudsdale sprite
+#750
+Mudsdale
+Ground
+Dewpider sprite
+#751
+Dewpider
+Water · Bug
+Araquanid sprite
+#752
+Araquanid
+Water · Bug
+Fomantis sprite
+#753
+Fomantis
+Grass
+Lurantis sprite
+#754
+Lurantis
+Grass
+Morelull sprite
+#755
+Morelull
+Grass · Fairy
+Shiinotic sprite
+#756
+Shiinotic
+Grass · Fairy
+Salandit sprite
+#757
+Salandit
+Poison · Fire
+Salazzle sprite
+#758
+Salazzle
+Poison · Fire
+Stufful sprite
+#759
+Stufful
+Normal · Fighting
+Bewear sprite
+#760
+Bewear
+Normal · Fighting
+Bounsweet sprite
+#761
+Bounsweet
+Grass
+Steenee sprite
+#762
+Steenee
+Grass
+Tsareena sprite
+#763
+Tsareena
+Grass
+Comfey sprite
+#764
+Comfey
+Fairy
+Oranguru sprite
+#765
+Oranguru
+Normal · Psychic
+Passimian sprite
+#766
+Passimian
+Fighting
+Wimpod sprite
+#767
+Wimpod
+Bug · Water
+Golisopod sprite
+#768
+Golisopod
+Bug · Water
+Sandygast sprite
+#769
+Sandygast
+Ghost · Ground
+Palossand sprite
+#770
+Palossand
+Ghost · Ground
+Pyukumuku sprite
+#771
+Pyukumuku
+Water
+Type: Null sprite
+#772
+Type: Null
+Normal
+Silvally sprite
+#773
+Silvally
+Normal
+Minior (Meteor Form) sprite
+#774
+Minior
+Rock · Flying
+Komala sprite
+#775
+Komala
+Normal
+Turtonator sprite
+#776
+Turtonator
+Fire · Dragon
+Togedemaru sprite
+#777
+Togedemaru
+Electric · Steel
+Mimikyu sprite
+#778
+Mimikyu
+Ghost · Fairy
+Bruxish sprite
+#779
+Bruxish
+Water · Psychic
+Drampa sprite
+#780
+Drampa
+Normal · Dragon
+Dhelmise sprite
+#781
+Dhelmise
+Ghost · Grass
+Jangmo-o sprite
+#782
+Jangmo-o
+Dragon
+Hakamo-o sprite
+#783
+Hakamo-o
+Dragon · Fighting
+Kommo-o sprite
+#784
+Kommo-o
+Dragon · Fighting
+Tapu Koko sprite
+#785
+Tapu Koko
+Electric · Fairy
+Tapu Lele sprite
+#786
+Tapu Lele
+Psychic · Fairy
+Tapu Bulu sprite
+#787
+Tapu Bulu
+Grass · Fairy
+Tapu Fini sprite
+#788
+Tapu Fini
+Water · Fairy
+Cosmog sprite
+#789
+Cosmog
+Psychic
+Cosmoem sprite
+#790
+Cosmoem
+Psychic
+Solgaleo sprite
+#791
+Solgaleo
+Psychic · Steel
+Lunala sprite
+#792
+Lunala
+Psychic · Ghost
+Nihilego sprite
+#793
+Nihilego
+Rock · Poison
+Buzzwole sprite
+#794
+Buzzwole
+Bug · Fighting
+Pheromosa sprite
+#795
+Pheromosa
+Bug · Fighting
+Xurkitree sprite
+#796
+Xurkitree
+Electric
+Celesteela sprite
+#797
+Celesteela
+Steel · Flying
+Kartana sprite
+#798
+Kartana
+Grass · Steel
+Guzzlord sprite
+#799
+Guzzlord
+Dark · Dragon
+Necrozma sprite
+#800
+Necrozma
+Psychic
+Magearna sprite
+#801
+Magearna
+Steel · Fairy
+Marshadow sprite
+#802
+Marshadow
+Fighting · Ghost
+Poipole sprite
+#803
+Poipole
+Poison
+Naganadel sprite
+#804
+Naganadel
+Poison · Dragon
+Stakataka sprite
+#805
+Stakataka
+Rock · Steel
+Blacephalon sprite
+#806
+Blacephalon
+Fire · Ghost
+Zeraora sprite
+#807
+Zeraora
+Electric
+Meltan sprite
+#808
+Meltan
+Steel
+Melmetal sprite
+#809
+Melmetal
+Steel
+Grookey sprite
+#810
+Grookey
+Grass
+Thwackey sprite
+#811
+Thwackey
+Grass
+Rillaboom sprite
+#812
+Rillaboom
+Grass
+Scorbunny sprite
+#813
+Scorbunny
+Fire
+Raboot sprite
+#814
+Raboot
+Fire
+Cinderace sprite
+#815
+Cinderace
+Fire
+Sobble sprite
+#816
+Sobble
+Water
+Drizzile sprite
+#817
+Drizzile
+Water
+Inteleon sprite
+#818
+Inteleon
+Water
+Skwovet sprite
+#819
+Skwovet
+Normal
+Greedent sprite
+#820
+Greedent
+Normal
+Rookidee sprite
+#821
+Rookidee
+Flying
+Corvisquire sprite
+#822
+Corvisquire
+Flying
+Corviknight sprite
+#823
+Corviknight
+Flying · Steel
+Blipbug sprite
+#824
+Blipbug
+Bug
+Dottler sprite
+#825
+Dottler
+Bug · Psychic
+Orbeetle sprite
+#826
+Orbeetle
+Bug · Psychic
+Nickit sprite
+#827
+Nickit
+Dark
+Thievul sprite
+#828
+Thievul
+Dark
+Gossifleur sprite
+#829
+Gossifleur
+Grass
+Eldegoss sprite
+#830
+Eldegoss
+Grass
+Wooloo sprite
+#831
+Wooloo
+Normal
+Dubwool sprite
+#832
+Dubwool
+Normal
+Chewtle sprite
+#833
+Chewtle
+Water
+Drednaw sprite
+#834
+Drednaw
+Water · Rock
+Yamper sprite
+#835
+Yamper
+Electric
+Boltund sprite
+#836
+Boltund
+Electric
+Rolycoly sprite
+#837
+Rolycoly
+Rock
+Carkol sprite
+#838
+Carkol
+Rock · Fire
+Coalossal sprite
+#839
+Coalossal
+Rock · Fire
+Applin sprite
+#840
+Applin
+Grass · Dragon
+Flapple sprite
+#841
+Flapple
+Grass · Dragon
+Appletun sprite
+#842
+Appletun
+Grass · Dragon
+Silicobra sprite
+#843
+Silicobra
+Ground
+Sandaconda sprite
+#844
+Sandaconda
+Ground
+Cramorant sprite
+#845
+Cramorant
+Flying · Water
+Arrokuda sprite
+#846
+Arrokuda
+Water
+Barraskewda sprite
+#847
+Barraskewda
+Water
+Toxel sprite
+#848
+Toxel
+Electric · Poison
+Toxtricity (Low Key Form) sprite
+#849
+Toxtricity
+Electric · Poison
+Sizzlipede sprite
+#850
+Sizzlipede
+Fire · Bug
+Centiskorch sprite
+#851
+Centiskorch
+Fire · Bug
+Clobbopus sprite
+#852
+Clobbopus
+Fighting
+Grapploct sprite
+#853
+Grapploct
+Fighting
+Sinistea sprite
+#854
+Sinistea
+Ghost
+Polteageist sprite
+#855
+Polteageist
+Ghost
+Hatenna sprite
+#856
+Hatenna
+Psychic
+Hattrem sprite
+#857
+Hattrem
+Psychic
+Hatterene sprite
+#858
+Hatterene
+Psychic · Fairy
+Impidimp sprite
+#859
+Impidimp
+Dark · Fairy
+Morgrem sprite
+#860
+Morgrem
+Dark · Fairy
+Grimmsnarl sprite
+#861
+Grimmsnarl
+Dark · Fairy
+Obstagoon sprite
+#862
+Obstagoon
+Dark · Normal
+Perrserker sprite
+#863
+Perrserker
+Steel
+Cursola sprite
+#864
+Cursola
+Ghost
+Sirfetch'd sprite
+#865
+Sirfetch'd
+Fighting
+Mr. Rime sprite
+#866
+Mr. Rime
+Psychic · Ice
+Runerigus sprite
+#867
+Runerigus
+Ground · Ghost
+Milcery sprite
+#868
+Milcery
+Fairy
+Alcremie sprite
+#869
+Alcremie
+Fairy
+Falinks sprite
+#870
+Falinks
+Fighting
+Pincurchin sprite
+#871
+Pincurchin
+Electric
+Snom sprite
+#872
+Snom
+Ice · Bug
+Frosmoth sprite
+#873
+Frosmoth
+Ice · Bug
+Stonjourner sprite
+#874
+Stonjourner
+Rock
+Eiscue (Ice Face) sprite
+#875
+Eiscue
+Ice
+Indeedee (Male) sprite
+#876
+Indeedee
+Psychic · Normal
+Morpeko (Full Belly Mode) sprite
+#877
+Morpeko
+Electric · Dark
+Cufant sprite
+#878
+Cufant
+Steel
+Copperajah sprite
+#879
+Copperajah
+Steel
+Dracozolt sprite
+#880
+Dracozolt
+Electric · Dragon
+Arctozolt sprite
+#881
+Arctozolt
+Electric · Ice
+Dracovish sprite
+#882
+Dracovish
+Water · Dragon
+Arctovish sprite
+#883
+Arctovish
+Water · Ice
+Duraludon sprite
+#884
+Duraludon
+Steel · Dragon
+Dreepy sprite
+#885
+Dreepy
+Dragon · Ghost
+Drakloak sprite
+#886
+Drakloak
+Dragon · Ghost
+Dragapult sprite
+#887
+Dragapult
+Dragon · Ghost
+Zacian (Crowned Sword) sprite
+#888
+Zacian
+Fairy · Steel
+Zamazenta (Crowned Shield) sprite
+#889
+Zamazenta
+Fighting · Steel
+Eternatus sprite
+#890
+Eternatus
+Poison · Dragon

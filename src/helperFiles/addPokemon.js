@@ -1,4 +1,5 @@
-let pokemonDB = require('./../../db/pokedex.json');
+let pokemonDB = require('./newPokemon.json');
+// let pokemonDB = require('./../../db/pokedex.json');
 let grammar = require("./../controllers/languageUtils")
 
 
@@ -29,7 +30,7 @@ function googleToAlexa() {
             ret += temp +"\n";
         }
 
-        fs.writeFile('alexaPokemon.txt', ret, function (err) {
+        fs.writeFile('allAlexaPokemon.txt', ret, function (err) {
             if (err) throw err;
     
             console.log('Saved!');
@@ -62,10 +63,12 @@ function pokemonName() {
         if(form ==="Alolan") region = ["Alolan", "Alola", "hello", "hola", "aloha", "a low a","a low win"];
         if(form ==="Galarian") region = ["Galarian","galar win", "galorian", "Galar","galer" ];
         
+
+        let googlePokemon = "";
+        let alexaPokemon = "";
+
         if(region){
 
-           let googlePokemon = "";
-           let alexaPokemon = "";
             for( let i in region ){
                 // console.log(region[i]);
             
@@ -74,12 +77,16 @@ function pokemonName() {
                 alexaPokemon +=  `${region[i]} ${name},,${name} ${region[i]},`;
             }
 
+      
+
             google += grammar.removeLastComma(googlePokemon) + "\n";
             alexa += grammar.removeLastComma(alexaPokemon) + "\n";
 
         }else{
-            googlePokemon +=  `"${name.toLowerCase}","${name} ${region[i]}",`;
-            alexaPokemon +=  `${region[i]} ${name},,${name} ${region[i]},`;
+          
+
+            googlePokemon +=  `"${pokemon.trim()}","${pokemon.trim().toLowerCase()}","${pokemon.trim().toUpperCase()}","${pokemonDB[pokemon].number}"`;
+            alexaPokemon +=  `${pokemon.trim()},,${pokemon.trim().toLowerCase()},`;
 
             google += grammar.removeLastComma(googlePokemon) + "\n";
             alexa += grammar.removeLastComma(alexaPokemon) + "\n";
@@ -95,7 +102,7 @@ function pokemonName() {
 
     let text = "//google\n\n" + google + "\n\n\n//alexa\n\n" + alexa;
 
-    fs.writeFile('pokemonSynonyms.txt', text, function (err) {
+    fs.writeFile('allPokemonSynonyms.txt', text, function (err) {
         if (err) throw err;
 
         console.log('Saved!');
