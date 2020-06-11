@@ -1,0 +1,77 @@
+//google
+
+"Alolan Rattata","Rattata Alolan","Alola Rattata","Rattata Alola","hello Rattata","Rattata hello","hola Rattata","Rattata hola","aloha Rattata","Rattata aloha","a low a Rattata","Rattata a low a","a low win Rattata","Rattata a low win"
+"Alolan Raticate","Raticate Alolan","Alola Raticate","Raticate Alola","hello Raticate","Raticate hello","hola Raticate","Raticate hola","aloha Raticate","Raticate aloha","a low a Raticate","Raticate a low a","a low win Raticate","Raticate a low win"
+"Alolan Raichu","Raichu Alolan","Alola Raichu","Raichu Alola","hello Raichu","Raichu hello","hola Raichu","Raichu hola","aloha Raichu","Raichu aloha","a low a Raichu","Raichu a low a","a low win Raichu","Raichu a low win"
+"Alolan Sandshrew","Sandshrew Alolan","Alola Sandshrew","Sandshrew Alola","hello Sandshrew","Sandshrew hello","hola Sandshrew","Sandshrew hola","aloha Sandshrew","Sandshrew aloha","a low a Sandshrew","Sandshrew a low a","a low win Sandshrew","Sandshrew a low win"
+"Alolan Sandslash","Sandslash Alolan","Alola Sandslash","Sandslash Alola","hello Sandslash","Sandslash hello","hola Sandslash","Sandslash hola","aloha Sandslash","Sandslash aloha","a low a Sandslash","Sandslash a low a","a low win Sandslash","Sandslash a low win"
+"Alolan Vulpix","Vulpix Alolan","Alola Vulpix","Vulpix Alola","hello Vulpix","Vulpix hello","hola Vulpix","Vulpix hola","aloha Vulpix","Vulpix aloha","a low a Vulpix","Vulpix a low a","a low win Vulpix","Vulpix a low win"
+"Alolan Ninetails","Ninetails Alolan","Alola Ninetails","Ninetails Alola","hello Ninetails","Ninetails hello","hola Ninetails","Ninetails hola","aloha Ninetails","Ninetails aloha","a low a Ninetails","Ninetails a low a","a low win Ninetails","Ninetails a low win"
+"Alolan Diglett","Diglett Alolan","Alola Diglett","Diglett Alola","hello Diglett","Diglett hello","hola Diglett","Diglett hola","aloha Diglett","Diglett aloha","a low a Diglett","Diglett a low a","a low win Diglett","Diglett a low win"
+"Alolan Dugtrio","Dugtrio Alolan","Alola Dugtrio","Dugtrio Alola","hello Dugtrio","Dugtrio hello","hola Dugtrio","Dugtrio hola","aloha Dugtrio","Dugtrio aloha","a low a Dugtrio","Dugtrio a low a","a low win Dugtrio","Dugtrio a low win"
+"Alolan Meowth","Meowth Alolan","Alola Meowth","Meowth Alola","hello Meowth","Meowth hello","hola Meowth","Meowth hola","aloha Meowth","Meowth aloha","a low a Meowth","Meowth a low a","a low win Meowth","Meowth a low win"
+"Alolan Persian","Persian Alolan","Alola Persian","Persian Alola","hello Persian","Persian hello","hola Persian","Persian hola","aloha Persian","Persian aloha","a low a Persian","Persian a low a","a low win Persian","Persian a low win"
+"Alolan Geodude","Geodude Alolan","Alola Geodude","Geodude Alola","hello Geodude","Geodude hello","hola Geodude","Geodude hola","aloha Geodude","Geodude aloha","a low a Geodude","Geodude a low a","a low win Geodude","Geodude a low win"
+"Alolan Graveler","Graveler Alolan","Alola Graveler","Graveler Alola","hello Graveler","Graveler hello","hola Graveler","Graveler hola","aloha Graveler","Graveler aloha","a low a Graveler","Graveler a low a","a low win Graveler","Graveler a low win"
+"Alolan Golem","Golem Alolan","Alola Golem","Golem Alola","hello Golem","Golem hello","hola Golem","Golem hola","aloha Golem","Golem aloha","a low a Golem","Golem a low a","a low win Golem","Golem a low win"
+"Alolan Grimer","Grimer Alolan","Alola Grimer","Grimer Alola","hello Grimer","Grimer hello","hola Grimer","Grimer hola","aloha Grimer","Grimer aloha","a low a Grimer","Grimer a low a","a low win Grimer","Grimer a low win"
+"Alolan Muk","Muk Alolan","Alola Muk","Muk Alola","hello Muk","Muk hello","hola Muk","Muk hola","aloha Muk","Muk aloha","a low a Muk","Muk a low a","a low win Muk","Muk a low win"
+"Alolan Exeggutor","Exeggutor Alolan","Alola Exeggutor","Exeggutor Alola","hello Exeggutor","Exeggutor hello","hola Exeggutor","Exeggutor hola","aloha Exeggutor","Exeggutor aloha","a low a Exeggutor","Exeggutor a low a","a low win Exeggutor","Exeggutor a low win"
+"Alolan Marowak","Marowak Alolan","Alola Marowak","Marowak Alola","hello Marowak","Marowak hello","hola Marowak","Marowak hola","aloha Marowak","Marowak aloha","a low a Marowak","Marowak a low a","a low win Marowak","Marowak a low win"
+"Galarian Zigzagoon","Zigzagoon Galarian","Galar Zigzagoon","Zigzagoon Galar","galer Zigzagoon","Zigzagoon galer","galorian Zigzagoon","Zigzagoon galorian","galer Zigzagoon","Zigzagoon galer","galar win Zigzagoon","Zigzagoon galar win"
+"Galarian Linoone","Linoone Galarian","Galar Linoone","Linoone Galar","galer Linoone","Linoone galer","galorian Linoone","Linoone galorian","galer Linoone","Linoone galer","galar win Linoone","Linoone galar win"
+"Galarian Meowth","Meowth Galarian","Galar Meowth","Meowth Galar","galer Meowth","Meowth galer","galorian Meowth","Meowth galorian","galer Meowth","Meowth galer","galar win Meowth","Meowth galar win"
+"Galarian Perrserker","Perrserker Galarian","Galar Perrserker","Perrserker Galar","galer Perrserker","Perrserker galer","galorian Perrserker","Perrserker galorian","galer Perrserker","Perrserker galer","galar win Perrserker","Perrserker galar win"
+"Galarian Farfetch'd","Farfetch'd Galarian","Galar Farfetch'd","Farfetch'd Galar","galer Farfetch'd","Farfetch'd galer","galorian Farfetch'd","Farfetch'd galorian","galer Farfetch'd","Farfetch'd galer","galar win Farfetch'd","Farfetch'd galar win"
+"Galarian Sirfetch'd","Sirfetch'd Galarian","Galar Sirfetch'd","Sirfetch'd Galar","galer Sirfetch'd","Sirfetch'd galer","galorian Sirfetch'd","Sirfetch'd galorian","galer Sirfetch'd","Sirfetch'd galer","galar win Sirfetch'd","Sirfetch'd galar win"
+"Galarian Stunfisk","Stunfisk Galarian","Galar Stunfisk","Stunfisk Galar","galer Stunfisk","Stunfisk galer","galorian Stunfisk","Stunfisk galorian","galer Stunfisk","Stunfisk galer","galar win Stunfisk","Stunfisk galar win"
+"Galarian Corsola","Corsola Galarian","Galar Corsola","Corsola Galar","galer Corsola","Corsola galer","galorian Corsola","Corsola galorian","galer Corsola","Corsola galer","galar win Corsola","Corsola galar win"
+"Galarian Weezing","Weezing Galarian","Galar Weezing","Weezing Galar","galer Weezing","Weezing galer","galorian Weezing","Weezing galorian","galer Weezing","Weezing galer","galar win Weezing","Weezing galar win"
+"Galarian Yamask","Yamask Galarian","Galar Yamask","Yamask Galar","galer Yamask","Yamask galer","galorian Yamask","Yamask galorian","galer Yamask","Yamask galer","galar win Yamask","Yamask galar win"
+"Galarian Ponyta","Ponyta Galarian","Galar Ponyta","Ponyta Galar","galer Ponyta","Ponyta galer","galorian Ponyta","Ponyta galorian","galer Ponyta","Ponyta galer","galar win Ponyta","Ponyta galar win"
+"Galarian Rapidash","Rapidash Galarian","Galar Rapidash","Rapidash Galar","galer Rapidash","Rapidash galer","galorian Rapidash","Rapidash galorian","galer Rapidash","Rapidash galer","galar win Rapidash","Rapidash galar win"
+"Galarian Mr. Mime","Mr. Mime Galarian","Galar Mr. Mime","Mr. Mime Galar","galer Mr. Mime","Mr. Mime galer","galorian Mr. Mime","Mr. Mime galorian","galer Mr. Mime","Mr. Mime galer","galar win Mr. Mime","Mr. Mime galar win"
+"Galarian Darumaka","Darumaka Galarian","Galar Darumaka","Darumaka Galar","galer Darumaka","Darumaka galer","galorian Darumaka","Darumaka galorian","galer Darumaka","Darumaka galer","galar win Darumaka","Darumaka galar win"
+"Galarian Darmanitan","Darmanitan Galarian","Galar Darmanitan","Darmanitan Galar","galer Darmanitan","Darmanitan galer","galorian Darmanitan","Darmanitan galorian","galer Darmanitan","Darmanitan galer","galar win Darmanitan","Darmanitan galar win"
+"Galarian Slowpoke","Slowpoke Galarian","Galar Slowpoke","Slowpoke Galar","galer Slowpoke","Slowpoke galer","galorian Slowpoke","Slowpoke galorian","galer Slowpoke","Slowpoke galer","galar win Slowpoke","Slowpoke galar win"
+"Galarian Slowbro","Slowbro Galarian","Galar Slowbro","Slowbro Galar","galer Slowbro","Slowbro galer","galorian Slowbro","Slowbro galorian","galer Slowbro","Slowbro galer","galar win Slowbro","Slowbro galar win"
+
+
+
+//alexa
+
+Alolan Rattata,,Rattata Alolan,Alola Rattata,,Rattata Alola,hello Rattata,,Rattata hello,hola Rattata,,Rattata hola,aloha Rattata,,Rattata aloha,a low a Rattata,,Rattata a low a,a low win Rattata,,Rattata a low win
+Alolan Raticate,,Raticate Alolan,Alola Raticate,,Raticate Alola,hello Raticate,,Raticate hello,hola Raticate,,Raticate hola,aloha Raticate,,Raticate aloha,a low a Raticate,,Raticate a low a,a low win Raticate,,Raticate a low win
+Alolan Raichu,,Raichu Alolan,Alola Raichu,,Raichu Alola,hello Raichu,,Raichu hello,hola Raichu,,Raichu hola,aloha Raichu,,Raichu aloha,a low a Raichu,,Raichu a low a,a low win Raichu,,Raichu a low win
+Alolan Sandshrew,,Sandshrew Alolan,Alola Sandshrew,,Sandshrew Alola,hello Sandshrew,,Sandshrew hello,hola Sandshrew,,Sandshrew hola,aloha Sandshrew,,Sandshrew aloha,a low a Sandshrew,,Sandshrew a low a,a low win Sandshrew,,Sandshrew a low win
+Alolan Sandslash,,Sandslash Alolan,Alola Sandslash,,Sandslash Alola,hello Sandslash,,Sandslash hello,hola Sandslash,,Sandslash hola,aloha Sandslash,,Sandslash aloha,a low a Sandslash,,Sandslash a low a,a low win Sandslash,,Sandslash a low win
+Alolan Vulpix,,Vulpix Alolan,Alola Vulpix,,Vulpix Alola,hello Vulpix,,Vulpix hello,hola Vulpix,,Vulpix hola,aloha Vulpix,,Vulpix aloha,a low a Vulpix,,Vulpix a low a,a low win Vulpix,,Vulpix a low win
+Alolan Ninetails,,Ninetails Alolan,Alola Ninetails,,Ninetails Alola,hello Ninetails,,Ninetails hello,hola Ninetails,,Ninetails hola,aloha Ninetails,,Ninetails aloha,a low a Ninetails,,Ninetails a low a,a low win Ninetails,,Ninetails a low win
+Alolan Diglett,,Diglett Alolan,Alola Diglett,,Diglett Alola,hello Diglett,,Diglett hello,hola Diglett,,Diglett hola,aloha Diglett,,Diglett aloha,a low a Diglett,,Diglett a low a,a low win Diglett,,Diglett a low win
+Alolan Dugtrio,,Dugtrio Alolan,Alola Dugtrio,,Dugtrio Alola,hello Dugtrio,,Dugtrio hello,hola Dugtrio,,Dugtrio hola,aloha Dugtrio,,Dugtrio aloha,a low a Dugtrio,,Dugtrio a low a,a low win Dugtrio,,Dugtrio a low win
+Alolan Meowth,,Meowth Alolan,Alola Meowth,,Meowth Alola,hello Meowth,,Meowth hello,hola Meowth,,Meowth hola,aloha Meowth,,Meowth aloha,a low a Meowth,,Meowth a low a,a low win Meowth,,Meowth a low win
+Alolan Persian,,Persian Alolan,Alola Persian,,Persian Alola,hello Persian,,Persian hello,hola Persian,,Persian hola,aloha Persian,,Persian aloha,a low a Persian,,Persian a low a,a low win Persian,,Persian a low win
+Alolan Geodude,,Geodude Alolan,Alola Geodude,,Geodude Alola,hello Geodude,,Geodude hello,hola Geodude,,Geodude hola,aloha Geodude,,Geodude aloha,a low a Geodude,,Geodude a low a,a low win Geodude,,Geodude a low win
+Alolan Graveler,,Graveler Alolan,Alola Graveler,,Graveler Alola,hello Graveler,,Graveler hello,hola Graveler,,Graveler hola,aloha Graveler,,Graveler aloha,a low a Graveler,,Graveler a low a,a low win Graveler,,Graveler a low win
+Alolan Golem,,Golem Alolan,Alola Golem,,Golem Alola,hello Golem,,Golem hello,hola Golem,,Golem hola,aloha Golem,,Golem aloha,a low a Golem,,Golem a low a,a low win Golem,,Golem a low win
+Alolan Grimer,,Grimer Alolan,Alola Grimer,,Grimer Alola,hello Grimer,,Grimer hello,hola Grimer,,Grimer hola,aloha Grimer,,Grimer aloha,a low a Grimer,,Grimer a low a,a low win Grimer,,Grimer a low win
+Alolan Muk,,Muk Alolan,Alola Muk,,Muk Alola,hello Muk,,Muk hello,hola Muk,,Muk hola,aloha Muk,,Muk aloha,a low a Muk,,Muk a low a,a low win Muk,,Muk a low win
+Alolan Exeggutor,,Exeggutor Alolan,Alola Exeggutor,,Exeggutor Alola,hello Exeggutor,,Exeggutor hello,hola Exeggutor,,Exeggutor hola,aloha Exeggutor,,Exeggutor aloha,a low a Exeggutor,,Exeggutor a low a,a low win Exeggutor,,Exeggutor a low win
+Alolan Marowak,,Marowak Alolan,Alola Marowak,,Marowak Alola,hello Marowak,,Marowak hello,hola Marowak,,Marowak hola,aloha Marowak,,Marowak aloha,a low a Marowak,,Marowak a low a,a low win Marowak,,Marowak a low win
+Galarian Zigzagoon,,Zigzagoon Galarian,Galar Zigzagoon,,Zigzagoon Galar,galer Zigzagoon,,Zigzagoon galer,galorian Zigzagoon,,Zigzagoon galorian,galer Zigzagoon,,Zigzagoon galer,galar win Zigzagoon,,Zigzagoon galar win
+Galarian Linoone,,Linoone Galarian,Galar Linoone,,Linoone Galar,galer Linoone,,Linoone galer,galorian Linoone,,Linoone galorian,galer Linoone,,Linoone galer,galar win Linoone,,Linoone galar win
+Galarian Meowth,,Meowth Galarian,Galar Meowth,,Meowth Galar,galer Meowth,,Meowth galer,galorian Meowth,,Meowth galorian,galer Meowth,,Meowth galer,galar win Meowth,,Meowth galar win
+Galarian Perrserker,,Perrserker Galarian,Galar Perrserker,,Perrserker Galar,galer Perrserker,,Perrserker galer,galorian Perrserker,,Perrserker galorian,galer Perrserker,,Perrserker galer,galar win Perrserker,,Perrserker galar win
+Galarian Farfetch'd,,Farfetch'd Galarian,Galar Farfetch'd,,Farfetch'd Galar,galer Farfetch'd,,Farfetch'd galer,galorian Farfetch'd,,Farfetch'd galorian,galer Farfetch'd,,Farfetch'd galer,galar win Farfetch'd,,Farfetch'd galar win
+Galarian Sirfetch'd,,Sirfetch'd Galarian,Galar Sirfetch'd,,Sirfetch'd Galar,galer Sirfetch'd,,Sirfetch'd galer,galorian Sirfetch'd,,Sirfetch'd galorian,galer Sirfetch'd,,Sirfetch'd galer,galar win Sirfetch'd,,Sirfetch'd galar win
+Galarian Stunfisk,,Stunfisk Galarian,Galar Stunfisk,,Stunfisk Galar,galer Stunfisk,,Stunfisk galer,galorian Stunfisk,,Stunfisk galorian,galer Stunfisk,,Stunfisk galer,galar win Stunfisk,,Stunfisk galar win
+Galarian Corsola,,Corsola Galarian,Galar Corsola,,Corsola Galar,galer Corsola,,Corsola galer,galorian Corsola,,Corsola galorian,galer Corsola,,Corsola galer,galar win Corsola,,Corsola galar win
+Galarian Weezing,,Weezing Galarian,Galar Weezing,,Weezing Galar,galer Weezing,,Weezing galer,galorian Weezing,,Weezing galorian,galer Weezing,,Weezing galer,galar win Weezing,,Weezing galar win
+Galarian Yamask,,Yamask Galarian,Galar Yamask,,Yamask Galar,galer Yamask,,Yamask galer,galorian Yamask,,Yamask galorian,galer Yamask,,Yamask galer,galar win Yamask,,Yamask galar win
+Galarian Ponyta,,Ponyta Galarian,Galar Ponyta,,Ponyta Galar,galer Ponyta,,Ponyta galer,galorian Ponyta,,Ponyta galorian,galer Ponyta,,Ponyta galer,galar win Ponyta,,Ponyta galar win
+Galarian Rapidash,,Rapidash Galarian,Galar Rapidash,,Rapidash Galar,galer Rapidash,,Rapidash galer,galorian Rapidash,,Rapidash galorian,galer Rapidash,,Rapidash galer,galar win Rapidash,,Rapidash galar win
+Galarian Mr. Mime,,Mr. Mime Galarian,Galar Mr. Mime,,Mr. Mime Galar,galer Mr. Mime,,Mr. Mime galer,galorian Mr. Mime,,Mr. Mime galorian,galer Mr. Mime,,Mr. Mime galer,galar win Mr. Mime,,Mr. Mime galar win
+Galarian Darumaka,,Darumaka Galarian,Galar Darumaka,,Darumaka Galar,galer Darumaka,,Darumaka galer,galorian Darumaka,,Darumaka galorian,galer Darumaka,,Darumaka galer,galar win Darumaka,,Darumaka galar win
+Galarian Darmanitan,,Darmanitan Galarian,Galar Darmanitan,,Darmanitan Galar,galer Darmanitan,,Darmanitan galer,galorian Darmanitan,,Darmanitan galorian,galer Darmanitan,,Darmanitan galer,galar win Darmanitan,,Darmanitan galar win
+Galarian Slowpoke,,Slowpoke Galarian,Galar Slowpoke,,Slowpoke Galar,galer Slowpoke,,Slowpoke galer,galorian Slowpoke,,Slowpoke galorian,galer Slowpoke,,Slowpoke galer,galar win Slowpoke,,Slowpoke galar win
+Galarian Slowbro,,Slowbro Galarian,Galar Slowbro,,Slowbro Galar,galer Slowbro,,Slowbro galer,galorian Slowbro,,Slowbro galorian,galer Slowbro,,Slowbro galer,galar win Slowbro,,Slowbro galar win

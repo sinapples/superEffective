@@ -1,0 +1,44 @@
+[
+	{
+		"data": [
+			{
+				"text": "what is good for ",
+				"userDefined": false
+			},
+			{
+				"text": "type",
+				"userDefined": true,
+				"alias": "type",
+				"meta": "@type"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "What is weak to ",
+				"userDefined": false
+			},
+			{
+				"text": "type",
+				"userDefined": true,
+				"alias": "type",
+				"meta": "@type"
+			},
+			{
+				"text": ",",
+				"userDefined": false
+			},
+			{
+				"text": "typeOne",
+				"userDefined": true,
+				"alias": "typeOne",
+				"meta": "@type"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	}
+]

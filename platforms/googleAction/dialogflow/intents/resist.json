@@ -1,0 +1,23 @@
+{
+	"name": "resist",
+	"auto": true,
+	"webhookUsed": true,
+	"responses": [
+		{
+			"parameters": [
+				{
+					"isList": false,
+					"name": "type",
+					"value": "$type",
+					"dataType": "@type"
+				},
+				{
+					"isList": false,
+					"name": "typeOne",
+					"value": "$typeOne",
+					"dataType": "@type"
+				}
+			]
+		}
+	]
+}

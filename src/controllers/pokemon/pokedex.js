@@ -33,14 +33,14 @@ getRegionalForm = (name) => {
     let regionAlolan = ["Alolan", "Alola","Hello", "Hola", "Aloha", "A Low A","A Low Win"];
     let regionGalarian = ["Galarian","Galar Win", "galorian", "Galar","galer"];
     
-    console.log("#\n#\n#\n#\n#\n#\n#@@@@@@"+name+"#\n#\n#\n#\n#\n#\n#")
+    // console.log("#\n#\n#\n#\n#\n#\n#@@@@@@"+name+"#\n#\n#\n#\n#\n#\n#")
     for(let i in region){
         if(name.includes(region[i])){
             console.log(region[i])
             let form = regionAlolan.includes(region[i]) ? "Alolan" : "Galarian"
             let pokemonName = name.replace(region[i],"").trim();
             name = form + " " + pokemonName;
-            console.log("#\n#\n#\n#\n#\n#\n#"+name+"#\n#\n#\n#\n#\n#\n#")
+            // console.log("#\n#\n#\n#\n#\n#\n#"+name+"#\n#\n#\n#\n#\n#\n#")
             break;
         }
     }

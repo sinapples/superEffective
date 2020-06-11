@@ -3,8 +3,8 @@ const grammar = require('../languageUtils');
 const { GoogleAssistant,Table } = require('jovo-platform-googleassistant');
 
 module.exports = {
-    superEffective() {
-
+    superEffectivePokemon() {
+        console.log("superEffectivePokemonState: superEffective");
 
         //Get inputs
         let name;
@@ -155,7 +155,7 @@ module.exports = {
         this.$session.$data.loop = false;
 
         //Prepare reprompt
-        this.$reprompt.addText("What is the Pokemon's typing?");
+        this.$reprompt.addText("What is the Pokemon's type?");
 
         //Send the speech
         // this.ask(this.$speech, this.$reprompt);
@@ -164,7 +164,7 @@ module.exports = {
     },
 
     YesIntent() {
-
+        console.log("superEffectivePokemonState: YesIntent");
         //Prevent looping in session data 
         this.$session.$data.loop = true;
         this.toStateIntent("resistPokemonState", "resist");
@@ -175,12 +175,13 @@ module.exports = {
     },
 
     RepeatIntent() {
+        console.log("superEffectivePokemonState: RepeatIntent");
         this.toStateIntent("superEffectivePokemonState", "superEffective");
 
     },
 
     NoIntent() {
-
+        console.log("superEffectivePokemonState: NoIntent");
         return this.toIntent('Goodbye');
     },
 

@@ -2,7 +2,7 @@ const typetable = require('./pokedex');
 const grammar = require('../languageUtils');
 
 module.exports = {
-    resist() {
+    resistPokemon() {
 
 
         //Get inputs
@@ -114,7 +114,7 @@ module.exports = {
 
         
         //Prepare reprompt
-        this.$reprompt.addText("What is the Pokemon's typing?");
+        this.$reprompt.addText("What is the Pokemon's type?");
 
         //Send the speech
         this.ask(this.$speech, this.$reprompt);

@@ -13,14 +13,16 @@
 			"name": "superEffective",
 			"phrases": [
 				"what is good for {type}",
-				"What is weak to {type},{type}"
+				"What is weak to {type},{typeOne}"
 			],
 			"inputs": [
 				{
-					"name": "type"
+					"name": "type",
+					"type": "type"
 				},
 				{
-					"name": "type"
+					"name": "typeOne",
+					"type": "type"
 				}
 			]
 		},
@@ -42,14 +44,33 @@
 			"name": "resist",
 			"phrases": [
 				"resist {type}",
-				"resist {type},{type}"
+				"resist {type},{typeOne}"
 			],
 			"inputs": [
 				{
-					"name": "type"
+					"name": "type",
+					"type": "type"
+					
 				},
 				{
-					"name": "type"
+					"name": "typeOne",
+					"type": "type"
+				}
+			]
+		}
+	],
+	"inputTypes": [
+		{
+			"name": "type",
+			"values": [
+				{
+					"value": "fire"
+				},
+				{
+					"value": "water",
+					"synonyms": [
+						"sea"
+					]
 				}
 			]
 		}

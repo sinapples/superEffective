@@ -1,0 +1,99 @@
+{
+	"interactionModel": {
+		"languageModel": {
+			"invocationName": "my test app",
+			"types": [
+				{
+					"name": "type",
+					"values": [
+						{
+							"id": null,
+							"name": {
+								"value": "fire"
+							}
+						},
+						{
+							"id": null,
+							"name": {
+								"value": "water",
+								"synonyms": [
+									"sea"
+								]
+							}
+						}
+					]
+				}
+			],
+			"intents": [
+				{
+					"name": "HelloWorldIntent",
+					"samples": [
+						"hello",
+						"say hello",
+						"say hello world"
+					]
+				},
+				{
+					"name": "superEffective",
+					"samples": [
+						"what is good for {type}",
+						"What is weak to {type},{typeOne}"
+					],
+					"slots": [
+						{
+							"name": "type",
+							"type": "type"
+						},
+						{
+							"name": "typeOne",
+							"type": "type"
+						}
+					]
+				},
+				{
+					"name": "YesIntent",
+					"samples": [
+						"Yes",
+						"yup"
+					]
+				},
+				{
+					"name": "NoIntent",
+					"samples": [
+						"no",
+						"nope"
+					]
+				},
+				{
+					"name": "resist",
+					"samples": [
+						"resist {type}",
+						"resist {type},{typeOne}"
+					],
+					"slots": [
+						{
+							"name": "type",
+							"type": "type"
+						},
+						{
+							"name": "typeOne",
+							"type": "type"
+						}
+					]
+				},
+				{
+					"name": "AMAZON.CancelIntent",
+					"samples": []
+				},
+				{
+					"name": "AMAZON.HelpIntent",
+					"samples": []
+				},
+				{
+					"name": "AMAZON.StopIntent",
+					"samples": []
+				}
+			]
+		}
+	}
+}

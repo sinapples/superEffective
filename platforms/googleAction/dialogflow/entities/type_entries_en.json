@@ -1,0 +1,15 @@
+[
+	{
+		"value": "fire",
+		"synonyms": [
+			"fire"
+		]
+	},
+	{
+		"value": "water",
+		"synonyms": [
+			"water",
+			"sea"
+		]
+	}
+]

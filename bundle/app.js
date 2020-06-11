@@ -9,10 +9,10 @@ const { Alexa } = require('jovo-platform-alexa');
 const { GoogleAssistant } = require('jovo-platform-googleassistant');
 const { JovoDebugger } = require('jovo-plugin-debugger');
 const { FileDb } = require('jovo-db-filedb');
-const superEffectiveState = require('./controllers/superEffectiveState');
+const superEffectiveState = require('./controllers/types/superEffectiveState');
 const superEffectivePokemonState = require('./controllers/pokemon/superEffectivePokemonState');
 const resistPokemonState = require('./controllers/pokemon/resistPokemonState');
-const resistState = require('./controllers/resistState');
+const resistState = require('./controllers/types/resistState');
 const app = new App();
 
 app.use(
@@ -42,7 +42,7 @@ app.setHandler({
 
     Welcome() {
         //Prepare Speach
-        this.$speech.addText("Welcome to Type Table!")
+        this.$speech.addText("Welcome to Pokemon Types!")
             .addText("Tell me the Pokemon's name or type and I'll tell you what is super effective against it!");
 
         //Prepare reprompt
@@ -60,24 +60,25 @@ app.setHandler({
     },
 
     superEffective() {
-
+        console.log("app: superEffective");
         this.toStateIntent("superEffectiveState", "superEffective");
     },
     superEffectivePokemon() {
-
-        this.toStateIntent("superEffectivePokemonState", "superEffective");
+        console.log("app: superEffectivePokemon");
+        this.toStateIntent("superEffectivePokemonState", "superEffectivePokemon");
     },
 
     resist() {
-
+        console.log("app: resist");
         this.toStateIntent("resistState", "resist");
     },
     resistPokemon() {
-
-        this.toStateIntent("resistPokemonState", "resist");
+        console.log("app: resistPokemon");
+        this.toStateIntent("resistPokemonState", "resistPokemon");
     },
 
     YesIntent() {
+        console.log("app: YesIntent");
         if (this.getState() === 'superEffectiveState.superEffective') {
             this.toStateIntent("resistState", "resist");
         }
@@ -89,7 +90,7 @@ app.setHandler({
     },
 
     NoIntent() {
-
+        console.log("app: NoIntent");
         return this.toIntent('Goodbye');
     },
 
@@ -99,7 +100,7 @@ app.setHandler({
 
 
     help() {
-
+        console.log("app: help");
           //Prepare Speach
           let speech = [
             "Tell me one or two Pokemon types.",
@@ -129,7 +130,7 @@ app.setHandler({
         this.ask(this.$speech, this.$reprompt);
     },
     Goodbye() {
-
+        console.log("app: Goodbye");
         //Prepare Speach
         let speech = [
             "Good luck!",
